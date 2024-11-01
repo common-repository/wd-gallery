@@ -1,0 +1,11 @@
+{
+    "require": {
+        "smarty/smarty": "3.x",
+        "james-heinrich/phpthumb": "1.7.x"
+    },
+    "autoload": {
+		"psr-4": {
+			"WD_Gallery\\": "classes/"
+		}
+	}
+}
